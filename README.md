@@ -1,4 +1,5 @@
-##Øvelse - Smarthome Controller
+Øvelse - Smarthome Controller
+
 Du skal udvikle en IOT-smarthome styresystem til din makkers hjem i Java. Du skal besvare skriftligt i en .md fil på din GitHub i projektet Smarthome 1.
 
 1. 	Identify the problem domain - Interview din makker om hans hjem, og find ud af, hvad der kunne styres i hjemmet og hvordan. 
